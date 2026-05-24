@@ -1,0 +1,7 @@
+{
+  "_comment": "Example repertoire. Format: { FEN: SAN_move }. The app looks up the current board's FEN and plays the mapped SAN move. Replace this file with your own lines — the entries below are just a tiny Italian Game stub for demonstration.",
+  "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1": "e4",
+  "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": "Nf3",
+  "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2": "Nc6",
+  "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3": "Bc4"
+}
